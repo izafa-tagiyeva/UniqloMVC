@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using UniqloMVC1.DataAccess;
+
 namespace UniqloMVC1
 {
     public class Program
@@ -9,9 +13,24 @@ namespace UniqloMVC1
 
             builder.Services.AddControllersWithViews();
 
+
+            builder.Services.AddDbContext<UniqloDbContext>(opt =>
+            {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
+              
+            });
+
+
+
+
             var app = builder.Build();
             app.UseStaticFiles();
 
+
+            app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+              );
 
             app.MapControllerRoute(
                 name: "default",

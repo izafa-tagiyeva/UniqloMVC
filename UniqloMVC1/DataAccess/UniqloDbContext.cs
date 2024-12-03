@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using UniqloMVC1.Models;
 
-//Why we use DataAcces instead of Models
+
 
 namespace UniqloMVC1.DataAccess
 {
-    public class UniqloDbContext : DbContext
+    public class UniqloDbContext : IdentityDbContext<User>
     {
         
 

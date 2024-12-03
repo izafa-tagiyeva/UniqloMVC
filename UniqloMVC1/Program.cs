@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using UniqloMVC1.DataAccess;
+using UniqloMVC1.Models;
 
 namespace UniqloMVC1
 {
@@ -21,11 +23,32 @@ namespace UniqloMVC1
             });
 
 
+            builder.Services.AddIdentity<User, IdentityRole>(opt =>
+            {
+                opt.Password.RequiredLength =3;
+                opt.Password.RequireNonAlphanumeric = true;
+                opt.Password.RequireDigit = true;
+                opt.Password.RequireLowercase = true;
+                opt.Password.RequireUppercase = true;
+                opt.Lockout.MaxFailedAccessAttempts = 1;
+                opt.Lockout.DefaultLockoutTimeSpan=TimeSpan.FromMinutes(15);
+
+            }).AddDefaultTokenProviders().AddEntityFrameworkStores<UniqloDbContext>();
+
+
 
 
             var app = builder.Build();
             app.UseStaticFiles();
 
+
+
+
+            app.MapControllerRoute(
+                name: "register",
+                pattern: "register",
+                defaults: new {controller="Account", action="Register"}
+                );
 
             app.MapControllerRoute(
             name: "areas",

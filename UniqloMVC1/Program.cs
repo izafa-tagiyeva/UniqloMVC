@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using UniqloMVC1.DataAccess;
+using UniqloMVC1.FileExtensions;
 using UniqloMVC1.Models;
 
 namespace UniqloMVC1
@@ -25,6 +26,7 @@ namespace UniqloMVC1
 
             builder.Services.AddIdentity<User, IdentityRole>(opt =>
             {
+                opt.User.AllowedUserNameCharacters = "abcdefghijk1mnopqrstuvwxyz0123456789._";
                 opt.Password.RequiredLength =3;
                 opt.Password.RequireNonAlphanumeric = true;
                 opt.Password.RequireDigit = true;
@@ -40,7 +42,7 @@ namespace UniqloMVC1
 
             var app = builder.Build();
             app.UseStaticFiles();
-
+            app.UseUserSeed();
 
 
 

@@ -3,13 +3,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UniqloMVC1.DataAccess;
 using UniqloMVC1.FileExtensions;
+using UniqloMVC1.Helpers;
 using UniqloMVC1.Models;
 using UniqloMVC1.ViewModels.Slider;
 
 namespace UniqloMVC1.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize] 
+    [Authorize(Roles = RoleConstants.Slider)] 
     public class SliderController(UniqloDbContext _context,IWebHostEnvironment _env) : Controller
     {
 

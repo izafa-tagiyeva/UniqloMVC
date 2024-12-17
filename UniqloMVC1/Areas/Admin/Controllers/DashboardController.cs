@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using UniqloMVC1.Enums;
 
 namespace UniqloMVC1.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    [Authorize(Roles = nameof(Roles.Admin))]
     public class DashboardController : Controller
     {
         public IActionResult Index()

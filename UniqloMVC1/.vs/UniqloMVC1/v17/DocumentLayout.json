@@ -3,64 +3,188 @@
   "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\fileextensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:fileextensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\baskets\\basketcookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\baskets\\basketcookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\baskets\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\baskets\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\resetpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\resetpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\resetpassword\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\resetpassword\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\services\\resetpassword\\resetpasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:services\\resetpassword\\resetpasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\uniqlomvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:uniqlomvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\resetpassword\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\resetpassword\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\resetpassword\\sendcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\resetpassword\\sendcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\productrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\productrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\services\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:services\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\resetpassword\\verifycodevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\resetpassword\\verifycodevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\productcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\productcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\auths\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\auths\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\helpers\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:helpers\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\helpers\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:helpers\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\helpers\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:helpers\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\uniqlomvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:uniqlomvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\accesdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\accesdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\fileextensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:fileextensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\fileextensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:fileextensions\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,44 +199,8 @@
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\product\\productitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\product\\productitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\fileextensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:fileextensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -135,10 +223,6 @@
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -151,56 +235,20 @@
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\categorys\\categoryitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\categorys\\categoryitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\category\\categoryitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\category\\categoryitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\categorys\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\categorys\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\viewmodels\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:viewmodels\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0506F74-67B7-402B-9C0E-6AE001062C4D}|UniqloMVC1.csproj|c:\\users\\izafe\\onedrive\\desktop\\uniqlomvc\\uniqlomvc1\\migrations\\20241123121319_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,180 +270,306 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeedExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\SeedExtension.cs",
-              "RelativeDocumentMoniker": "FileExtensions\\SeedExtension.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\SeedExtension.cs",
-              "RelativeToolTip": "FileExtensions\\SeedExtension.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BasketCookieItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Baskets\\BasketCookieItemVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Baskets\\BasketCookieItemVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Baskets\\BasketCookieItemVM.cs",
+              "RelativeToolTip": "ViewModels\\Baskets\\BasketCookieItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T01:54:37.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFQAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T09:59:47.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T09:09:33.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:51:52.445Z",
+              "WhenOpened": "2024-12-17T07:47:08.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Title": "BasketItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Baskets\\BasketItemVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Baskets\\BasketItemVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Baskets\\BasketItemVM.cs",
+              "RelativeToolTip": "ViewModels\\Baskets\\BasketItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T12:17:36.958Z",
+              "WhenOpened": "2024-12-17T07:46:24.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UniqloMVC1.csproj",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\UniqloMVC1.csproj",
-              "RelativeDocumentMoniker": "UniqloMVC1.csproj",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\UniqloMVC1.csproj",
-              "RelativeToolTip": "UniqloMVC1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-21T09:08:02.945Z",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:51:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:42:26.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T07:24:08.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:17:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:15:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ResetPasswordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResetPasswordController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ResetPasswordController.cs",
+              "RelativeToolTip": "Controllers\\ResetPasswordController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:01:50.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwIMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T15:12:41.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T01:42:46.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Enums\\Roles.cs",
-              "RelativeDocumentMoniker": "Enums\\Roles.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Enums\\Roles.cs",
-              "RelativeToolTip": "Enums\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:16:06.783Z",
+              "WhenOpened": "2024-12-17T07:36:47.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UserRegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Auths\\UserRegisterVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Auths\\UserRegisterVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Auths\\UserRegisterVM.cs",
-              "RelativeToolTip": "ViewModels\\Auths\\UserRegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T15:27:34.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Auths\\LoginVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Auths\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Auths\\LoginVM.cs",
-              "RelativeToolTip": "ViewModels\\Auths\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T13:47:55.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAABrAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkCAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T13:39:49.408Z",
+              "WhenOpened": "2024-12-17T07:39:06.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAAfAAAAAAAAAA==",
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\ResetPassword\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\ResetPassword\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\ResetPassword\\ResetPassword.cshtml",
+              "RelativeToolTip": "Views\\ResetPassword\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T15:13:45.251Z",
+              "WhenOpened": "2024-12-16T23:12:08.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:34:58.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:59:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Services\\ResetPassword\\ResetPasswordService.cs",
+              "RelativeDocumentMoniker": "Services\\ResetPassword\\ResetPasswordService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Services\\ResetPassword\\ResetPasswordService.cs",
+              "RelativeToolTip": "Services\\ResetPassword\\ResetPasswordService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:31:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:09:33.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-23T08:11:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\ResetPassword\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResetPassword\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\ResetPassword\\ResetPasswordVM.cs",
+              "RelativeToolTip": "ViewModels\\ResetPassword\\ResetPasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:10:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SendCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\ResetPassword\\SendCode.cshtml",
+              "RelativeDocumentMoniker": "Views\\ResetPassword\\SendCode.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\ResetPassword\\SendCode.cshtml",
+              "RelativeToolTip": "Views\\ResetPassword\\SendCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T23:07:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VerifyCodeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\ResetPassword\\VerifyCodeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResetPassword\\VerifyCodeVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\ResetPassword\\VerifyCodeVM.cs",
+              "RelativeToolTip": "ViewModels\\ResetPassword\\VerifyCodeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:09:47.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRating.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\ProductRating.cs",
+              "RelativeDocumentMoniker": "Models\\ProductRating.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\ProductRating.cs",
+              "RelativeToolTip": "Models\\ProductRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:38:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Services\\Abstractions\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Services\\Abstractions\\IEmailService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:16:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductComment.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\ProductComment.cs",
+              "RelativeDocumentMoniker": "Models\\ProductComment.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\ProductComment.cs",
+              "RelativeToolTip": "Models\\ProductComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:50:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -403,59 +577,7 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:34:37.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:42:26.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T15:00:07.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T16:47:35.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:16:26.061Z"
+              "WhenOpened": "2024-12-01T14:34:37.699Z"
             },
             {
               "$type": "Document",
@@ -471,92 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T13:55:02.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T20:18:32.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "20241202143713_CreatedIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241202143713_CreatedIdentityTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241202143713_CreatedIdentityTables.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241202143713_CreatedIdentityTables.cs",
-              "RelativeToolTip": "Migrations\\20241202143713_CreatedIdentityTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:37:14.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:44:04.511Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Product\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Product\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Product\\ProductCreateVM.cs",
-              "RelativeToolTip": "ViewModels\\Product\\ProductCreateVM.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:58:31.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:43:40.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UniqloDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\DataAccess\\UniqloDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\UniqloDbContext.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\DataAccess\\UniqloDbContext.cs",
-              "RelativeToolTip": "DataAccess\\UniqloDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:02:29.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "ProductItemVM.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Product\\ProductItemVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Product\\ProductItemVM.cs",
@@ -568,223 +605,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAA8BAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T07:24:08.55Z"
+              "DocumentIndex": 26,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Product\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:58:31.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "FileExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\FileExtension.cs",
-              "RelativeDocumentMoniker": "FileExtensions\\FileExtension.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\FileExtension.cs",
-              "RelativeToolTip": "FileExtensions\\FileExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Title": "UniqloDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\DataAccess\\UniqloDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UniqloDbContext.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\DataAccess\\UniqloDbContext.cs",
+              "RelativeToolTip": "DataAccess\\UniqloDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:20:10.701Z"
+              "WhenOpened": "2024-11-23T11:02:29.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T16:54:05.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:18:19.798Z"
+              "Title": "EmailTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\EmailTemplates.cs",
+              "RelativeDocumentMoniker": "Helpers\\EmailTemplates.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\EmailTemplates.cs",
+              "RelativeToolTip": "Helpers\\EmailTemplates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:20:13.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T11:29:59.124Z"
+              "Title": "RoleConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\RoleConstants.cs",
+              "RelativeDocumentMoniker": "Helpers\\RoleConstants.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\RoleConstants.cs",
+              "RelativeToolTip": "Helpers\\RoleConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:35:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SmtpOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\SmtpOptions.cs",
+              "RelativeDocumentMoniker": "Helpers\\SmtpOptions.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Helpers\\SmtpOptions.cs",
+              "RelativeToolTip": "Helpers\\SmtpOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:22:04.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAIBJwEAAAAAUAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAD8BAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T08:22:28.493Z"
+              "WhenOpened": "2024-12-16T15:06:40.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:05:12.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHYBAAAAAAAAAIBJwBQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T09:17:46.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T17:09:57.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T08:20:45.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:29:50.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:17:22.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-22T08:53:57.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-23T08:11:24.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAHEAAAAAAAAAAIBJwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T09:34:58.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CategoryCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryCreateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryCreateVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryCreateVM.cs",
-              "RelativeToolTip": "ViewModels\\Category\\CategoryCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:20:46.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CategoryItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryItemVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryItemVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryItemVM.cs",
-              "RelativeToolTip": "ViewModels\\Category\\CategoryItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:23:22.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "CategoryUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryUpdateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Category\\CategoryUpdateVM.cs",
-              "RelativeToolTip": "ViewModels\\Category\\CategoryUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:21:24.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 33,
               "Title": "SliderCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Slider\\SliderCreateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Slider\\SliderCreateVM.cs",
@@ -796,43 +701,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:24:49.589Z"
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T07:32:53.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "20241129083147_CreatedCategoryAndProductTables.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
-              "RelativeToolTip": "Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:31:47.558Z"
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T14:17:22.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "SliderUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Slider\\SliderUpdateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Slider\\SliderUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Slider\\SliderUpdateVM.cs",
-              "RelativeToolTip": "ViewModels\\Slider\\SliderUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T07:38:24.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -844,7 +737,319 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:51:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UniqloMVC1.csproj",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\UniqloMVC1.csproj",
+              "RelativeDocumentMoniker": "UniqloMVC1.csproj",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\UniqloMVC1.csproj",
+              "RelativeToolTip": "UniqloMVC1.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T09:08:02.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccesDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\AccesDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AccesDenied.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Home\\AccesDenied.cshtml",
+              "RelativeToolTip": "Views\\Home\\AccesDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T14:37:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:39:49.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T15:13:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:42:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "FileExtensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\FileExtension.cs",
+              "RelativeToolTip": "FileExtensions\\FileExtension.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:20:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SeedExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\SeedExtension.cs",
+              "RelativeDocumentMoniker": "FileExtensions\\SeedExtension.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\FileExtensions\\SeedExtension.cs",
+              "RelativeToolTip": "FileExtensions\\SeedExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:54:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:16:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T15:00:07.606Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T16:47:35.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:55:02.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:18:32.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241202143713_CreatedIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241202143713_CreatedIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202143713_CreatedIdentityTables.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241202143713_CreatedIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20241202143713_CreatedIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:37:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T16:54:05.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:18:19.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:29:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAIBJwEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T08:22:28.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:05:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T17:09:57.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T08:20:45.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:29:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CategoryItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Categorys\\CategoryItemVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Categorys\\CategoryItemVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Categorys\\CategoryItemVM.cs",
+              "RelativeToolTip": "ViewModels\\Categorys\\CategoryItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:23:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Categorys\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Categorys\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Categorys\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "ViewModels\\Categorys\\CategoryUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:21:24.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241129083147_CreatedCategoryAndProductTables.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
+              "RelativeToolTip": "Migrations\\20241129083147_CreatedCategoryAndProductTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:31:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SliderUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Slider\\SliderUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\ViewModels\\Slider\\SliderUpdateVM.cs",
+              "RelativeToolTip": "ViewModels\\Slider\\SliderUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:38:24.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -856,7 +1061,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 62,
               "Title": "20241123121319_CreatedSlidersTable.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Migrations\\20241123121319_CreatedSlidersTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20241123121319_CreatedSlidersTable.cs",
@@ -865,18 +1070,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T12:13:19.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T07:32:53.358Z"
             }
           ]
         }

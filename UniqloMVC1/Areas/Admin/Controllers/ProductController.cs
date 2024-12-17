@@ -3,13 +3,14 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UniqloMVC1.DataAccess;
 using UniqloMVC1.FileExtensions;
+using UniqloMVC1.Helpers;
 using UniqloMVC1.Models;
 using UniqloMVC1.ViewModels.Product;
 
 namespace UniqloMVC1.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    [Authorize(Roles = RoleConstants.Product)]
     public class ProductController( UniqloDbContext _context, IWebHostEnvironment _env) : Controller
     {
         public async Task<IActionResult> Index()
@@ -98,7 +99,7 @@ namespace UniqloMVC1.Areas.Admin.Controllers
                     ModelState.AddModelError("File", "File must be an image");
                 }
 
-                if (!vm.CoverFile.IsValidSize(24*1024))
+                if (!vm.CoverFile.IsValidSize(24*1024*1024))
                 {
                     ModelState.AddModelError("File", "File size must be less than 24 MB");
                 }

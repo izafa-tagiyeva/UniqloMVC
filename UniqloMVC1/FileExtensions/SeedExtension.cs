@@ -37,7 +37,7 @@ namespace UniqloMVC1.FileExtensions
                     };
 
 
-                    userManager.CreateAsync(u, "123").Wait();
+                    userManager.CreateAsync(u, "Mini123").Wait();
 
                     
                     userManager.AddToRoleAsync(u, nameof(Roles.Admin)).Wait();

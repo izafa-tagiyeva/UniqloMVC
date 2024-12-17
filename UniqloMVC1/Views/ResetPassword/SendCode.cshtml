@@ -1,0 +1,15 @@
+﻿@model UniqloMVC1.ViewModels.ResetPassword.VerifyCodeVM
+@{
+    ViewData["Title"] = "SendCode";
+}
+
+
+<h2>Şifrəni Sıfırlamaq üçün Kod Göndərin</h2>
+<form method="post" action="/ResetPassword/SendCode">
+    <div>
+        <label for="email">E-poçt:</label>
+        <input type="email" id="email" name="Email" required />
+    </div>
+    <button type="submit">Kod Göndər</button>
+</form>
+

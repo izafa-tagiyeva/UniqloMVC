@@ -3,7 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using UniqloMVC1.DataAccess;
 using UniqloMVC1.FileExtensions;
+using UniqloMVC1.Helpers;
 using UniqloMVC1.Models;
+using UniqloMVC1.Services.Abstractions;
+using WebUniqlo.Services.Interfaces;
 
 namespace UniqloMVC1
 {
@@ -28,17 +31,27 @@ namespace UniqloMVC1
             {
                 opt.User.AllowedUserNameCharacters = "abcdefghijk1mnopqrstuvwxyz0123456789._";
                 opt.Password.RequiredLength =3;
-                opt.Password.RequireNonAlphanumeric = true;
+                opt.Password.RequireNonAlphanumeric = false;
                 opt.Password.RequireDigit = true;
                 opt.Password.RequireLowercase = true;
                 opt.Password.RequireUppercase = true;
-                opt.Lockout.MaxFailedAccessAttempts = 1;
+                opt.Lockout.MaxFailedAccessAttempts = 10;
                 opt.Lockout.DefaultLockoutTimeSpan=TimeSpan.FromMinutes(15);
 
             }).AddDefaultTokenProviders().AddEntityFrameworkStores<UniqloDbContext>();
+            builder.Services.ConfigureApplicationCookie(x =>
+            {
+                x.AccessDeniedPath = "/Home/AccessDenied";
+                
+            });
 
+            ///////////////////////////////////////////////////////////////////
 
+            builder.Services.AddScoped<IEmailService, EmailService>();
+            SmtpOptions opt = new();
+            builder.Services.Configure<SmtpOptions>(builder.Configuration.GetSection("Smtp"));
 
+            /////////////////////////////////////////////////////////////////
 
             var app = builder.Build();
             app.UseStaticFiles();

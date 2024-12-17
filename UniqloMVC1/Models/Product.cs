@@ -13,6 +13,10 @@ namespace UniqloMVC1.Models
         public string CoverImage { get; set; } = null!;
         public int? CategoryId { get; set; }
         public Category? Category { get; set; }
+        public ICollection<Tag>? Tags { get; set; }
+        public IEnumerable<ProductRating>? Ratings { get; set; }
+        public IEnumerable<ProductComment>? Comments { get; set; }
+        
 
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nX+099mKFBznSXsYQl6LQRRj++vgyhYReKKT7QuoVhk=",
+  "Hash": "d0Bb+PC16FcnVd2v1FzL2j9K1YqULYwb+boAEBfNsEs=",
   "Source": "UniqloMVC1",
   "BasePath": "_content/UniqloMVC1",
   "Mode": "Default",
@@ -39573,6 +39573,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\wwwroot\\imgs\\products\\1jnvvfxs.4rn.jpg",
+      "SourceId": "UniqloMVC1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\wwwroot\\",
+      "BasePath": "_content/UniqloMVC1",
+      "RelativePath": "imgs/products/1jnvvfxs.4rn.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\products\\1jnvvfxs.4rn.jpg"
     },
     {
       "Identity": "C:\\Users\\Izafe\\OneDrive\\Desktop\\UniqloMVC\\UniqloMVC1\\wwwroot\\imgs\\products\\htcchxn1.pvo.jpeg",

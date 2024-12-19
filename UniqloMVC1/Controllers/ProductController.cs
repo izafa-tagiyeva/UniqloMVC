@@ -123,8 +123,45 @@ namespace UniqloMVC1.Controllers
 
             Response.Cookies.Append("basket", JsonSerializer.Serialize(basketItems));
 
-            return View();
+            return Ok();
            }
+
+        public async Task<IActionResult> RemoveBasket(int id)
+        {
+          
+            if (!await _context.Products.AnyAsync(x => x.Id == id))
+                return NotFound();
+
+            var basketCookie = Request.Cookies["basket"];
+            List<BasketCookieItemVM> basketItems;
+
+            try
+            {
+                basketItems = JsonSerializer.Deserialize<List<BasketCookieItemVM>>(basketCookie ?? "[]");
+            }
+            catch
+            {
+                return BadRequest("Invalid basket data.");
+            }
+
+            var item = basketItems.FirstOrDefault(x => x.Id == id);
+
+            if (item is null)
+                return NotFound("Item not found in basket.");
+
+            
+            item.Count--;
+            if (item.Count <= 0)
+            {
+                basketItems.Remove(item);
+            }
+
            
+            Response.Cookies.Append("basket", JsonSerializer.Serialize(basketItems));
+
+            return RedirectToAction("Index","Home");
+        }
+
+
     }
 }
